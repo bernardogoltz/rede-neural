@@ -38,31 +38,3 @@ for i in range(camadas):
     
     colunas = neuronios
     X = camada.output
-    
-    
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
