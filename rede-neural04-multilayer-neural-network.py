@@ -21,8 +21,6 @@ class Layer_Dense:
     def propaga(self, inputs):
         self.output = sigmoide(np.dot(inputs , self.pesos)+self.betas)
          
-    
-
 camadas = int(input("Camadas: "))
 
 for i in range(camadas):
